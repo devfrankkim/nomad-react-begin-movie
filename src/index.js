@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './App';
+import Ex01 from './Ex01';
 
-ReactDOM.render(<App />, document.getElementById('potato'));
+ReactDOM.render(<Ex01 />, document.getElementById('potato'));
 
 // render only 1 Component
 // 
