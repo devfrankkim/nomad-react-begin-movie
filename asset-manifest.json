@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/nomad-react-begin-movie/static/css/main.98f3a1af.chunk.css",
+    "main.js": "/nomad-react-begin-movie/static/js/main.1c320858.chunk.js",
+    "main.js.map": "/nomad-react-begin-movie/static/js/main.1c320858.chunk.js.map",
+    "runtime-main.js": "/nomad-react-begin-movie/static/js/runtime-main.e17d0bf5.js",
+    "runtime-main.js.map": "/nomad-react-begin-movie/static/js/runtime-main.e17d0bf5.js.map",
+    "static/js/2.14ba9984.chunk.js": "/nomad-react-begin-movie/static/js/2.14ba9984.chunk.js",
+    "static/js/2.14ba9984.chunk.js.map": "/nomad-react-begin-movie/static/js/2.14ba9984.chunk.js.map",
+    "index.html": "/nomad-react-begin-movie/index.html",
+    "precache-manifest.95c190e50dbf65c592a73d186c75b6d9.js": "/nomad-react-begin-movie/precache-manifest.95c190e50dbf65c592a73d186c75b6d9.js",
+    "service-worker.js": "/nomad-react-begin-movie/service-worker.js",
+    "static/css/main.98f3a1af.chunk.css.map": "/nomad-react-begin-movie/static/css/main.98f3a1af.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e17d0bf5.js",
+    "static/js/2.14ba9984.chunk.js",
+    "static/css/main.98f3a1af.chunk.css",
+    "static/js/main.1c320858.chunk.js"
+  ]
+}
